@@ -5,4 +5,4 @@ The Student Progress Tracker app simplifies classroom management with features l
 
 Supervised by: Eng. Leqaa Hani
 
-Team Contributors: Omar Kamal / Abdulrahman Shalan / Noura Elsaey / Mohamed Ezar
+Team Contributors: Omar Kamal / Abdulrahman Shalan / Noura Elsaey / Mohamed Ezat
